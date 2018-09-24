@@ -1,0 +1,6 @@
+framework module Pods_CCUITests {
+  umbrella header "Pods-CCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

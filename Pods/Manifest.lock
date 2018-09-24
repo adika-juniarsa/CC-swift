@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AnyFormatKit (0.1.2)
+  - AsyncSwift (2.0.4)
+  - Defaults (0.2.2)
+  - GBDeviceInfo (5.2.0):
+    - GBDeviceInfo/Core (= 5.2.0)
+  - GBDeviceInfo/Core (5.2.0)
+  - KeychainSwift (11.0.0)
+  - LGSideMenuController (2.1.1)
+  - NVActivityIndicatorView (4.3.0):
+    - NVActivityIndicatorView/Presenter (= 4.3.0)
+  - NVActivityIndicatorView/Presenter (4.3.0)
+  - SwiftyJSON (4.1.0)
+  - Validator (3.0.2)
+  - ZSWTaggedString/Core (4.0)
+  - ZSWTaggedString/Swift (4.0):
+    - ZSWTaggedString/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - AnyFormatKit
+  - AsyncSwift
+  - Defaults
+  - GBDeviceInfo
+  - KeychainSwift
+  - LGSideMenuController
+  - NVActivityIndicatorView
+  - SwiftyJSON
+  - Validator
+  - ZSWTaggedString/Swift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AnyFormatKit
+    - AsyncSwift
+    - Defaults
+    - GBDeviceInfo
+    - KeychainSwift
+    - LGSideMenuController
+    - NVActivityIndicatorView
+    - SwiftyJSON
+    - Validator
+    - ZSWTaggedString
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AnyFormatKit: b31739f6047c94c204e0640b281c80eda23be235
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Defaults: 79e548c40579ef7e225835547acdf1ce7c2e8e55
+  GBDeviceInfo: 2c65ceb9404f9079264d4c238f5b81916fdfc5e2
+  KeychainSwift: bea6bd9f98af7b8d7ca4aa79fe105c00fab532db
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  NVActivityIndicatorView: 963f62bf9f993fcf23218e55958e5b1761b9504c
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  Validator: bf211c1d71b3f910d230c09c70e62429d0fef63a
+  ZSWTaggedString: 3b06dc0fc32138bd15688a84167b0867c7353f3c
+
+PODFILE CHECKSUM: c1be139a3ad506af7f2b490f4420522eac105472
+
+COCOAPODS: 1.5.3
